@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom WooCommerce States
- * Plugin URI: https://my-v-verse.com
+ * Plugin URI: https://github.com/TalhaGFX98/woocommerce/
  * Author: Talha Bin Tariq
  * Author URI: https://github.com/TalhaGFX98
  * Description: Add Custom WooCommerce States Using This Plugin
