@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom WooCommerce States
  * Plugin URI: https://github.com/TalhaGFX98/woocommerce/
- * Author: Talha Bin Tariq
+ * Author: TalhaGFX98
  * Author URI: https://github.com/TalhaGFX98
  * Description: Add Custom WooCommerce States Using This Plugin
  * Version: 0.1.0
